@@ -7,7 +7,8 @@ Th first thing you’ll want to do is run brew bundle dump on your Intel Mac. Th
 brew bundle dump
 ```
 
-2. ```bash
+2. 
+```bash
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
 
